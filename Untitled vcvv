@@ -1,0 +1,74 @@
+
+
+### **1. Home Page:**
+
+```html
+<h1>A New Beginning</h1>
+<p>This is the story of a man who transformed his life when he learned he was going to be a father. Help him make choices that will shape his journey to becoming a man of value.</p>
+<p>Start the journey:</p>
+<a href="page1.html">Begin</a>
+```
+
+---
+
+### **2. Page 1: Choosing Responsibility**
+
+```html
+<h1>Choosing Responsibility</h1>
+<p>Upon hearing the news, he is overwhelmed with emotion. He realizes that he needs to make a choice about how to approach his new life as a father.</p>
+<p>What should he do?</p>
+<a href="page2.html">Take on more responsibility at work</a>
+<a href="page3.html">Spend more time with his family</a>
+<a href="index.html">Go back to the home page</a>
+```
+
+---
+
+### **3. Page 2: Work Commitment**
+
+```html
+<h1>Work Commitment</h1>
+<p>He decides to work harder to provide for his new family. His dedication impresses his boss, but he begins to feel distant from his loved ones.</p>
+<p>What's his next step?</p>
+<a href="page4.html">Continue to focus on work</a>
+<a href="page3.html">Realize the importance of balance</a>
+<a href="index.html">Go back to the home page</a>
+```
+
+---
+
+### **4. Page 3: Family First**
+
+```html
+<h1>Family First</h1>
+<p>He chooses to spend more time with his family, embracing his role as a father and supporting his partner through the pregnancy.</p>
+<p>What should he focus on next?</p>
+<a href="page4.html">Find a balance between work and family</a>
+<a href="page2.html">Prioritize work for financial stability</a>
+<a href="index.html">Go back to the home page</a>
+```
+
+---
+
+### **5. Page 4: A Balanced Life**
+
+```html
+<h1>A Balanced Life</h1>
+<p>He learns to balance his work and personal life, becoming a supportive partner and a dedicated father. He realizes that being a man of value means being present for his family while also fulfilling his responsibilities.</p>
+<p>The end of this chapter. But life goes on, and so does learning.</p>
+<a href="index.html">Go back to the home page</a>
+```
+
+---
+
+### **Site Map:**
+
+```html
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="page1.html">Choosing Responsibility</a></li>
+  <li><a href="page2.html">Work Commitment</a></li>
+  <li><a href="page3.html">Family First</a></li>
+  <li><a href="page4.html">A Balanced Life</a></li>
+</ul>
+```
